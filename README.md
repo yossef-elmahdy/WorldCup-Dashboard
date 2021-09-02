@@ -4,6 +4,7 @@ with a timeline to highlight and describe main events and facts of each edition.
 
 ## Content
 - [Overview](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#overview)
+- [Project Snapshots](TODO)
 - [Files](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#files)
 - [Sources](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#sources)
 - [Used Tools](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#used-tools)
@@ -31,6 +32,15 @@ This report answers some interesting questions with data using charts and number
   
 And other interesting questiions you will enjoy it ^_^
 
+--------------------------------------
+## Project Snapshots 
+<p align="center">
+    Main Dashboard  
+</p>   
+       
+![Main Dashboard](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/World%20Cup/Project%20Snapshots/MainDashboard.jpg)
+
+       
 --------------------------------------
 ## Files
 The project mainly contains:      ***It is preferable PUT all the project files TOGETHER in the same folder***
