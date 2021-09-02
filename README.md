@@ -2,6 +2,14 @@
 Dashboard and reports of interesting data and facts about all FIFA World Cup editions (1930-2018) 
 with a timeline to highlight and describe main events and facts of each edition. 
 
+## Content
+- [Overview](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#overview)
+- [Files](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#files)
+- [Sources](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#sources)
+- [Used Tools](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#used-tools)
+- [Learned Concepts](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#learned-concepts-tools-and-techniques)
+- [Contribution](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#contribution)
+
 --------------------------------------
 ![FIFA World Cup](https://www.kick442.com/wp-content/uploads/2020/07/IMG-20200715-WA0059.jpg)
 ## Overview
@@ -34,12 +42,6 @@ The project mainly contains:      ***It is preferable PUT all the project files 
      - WorldCupPlayers.csv: all FIFA World Cup players who played (1930-2014)
   3. LOGOs Folder: all the official logos of the FIFA World Cup editions (1930-2018), an image of the old trophy and the logo of FIFA organization itself
 --------------------------------------
-## Contribution
-It would be very appreciated if you can: 
-  - Give a constructive feedback even it is technical or user prospective one that would make this project a way better
-  - Contribute on filling the missing data to give more answers
-  - Ask more interesting and new questions that we can answer using data, it would be such a fun! 
---------------------------------------
 ## Sources
 1. [Kaggle's FIFA World Cup (1930-2014) Dataset](https://www.kaggle.com/abecklas/fifa-world-cup)
 2. [Data World FIFA World Cup 2018 Dataset](https://data.world/rezaghari/fifa-worldcup-2018)
@@ -63,6 +65,7 @@ Thank you for who made them!
 4. GitHub
    - Share the project 
    - Receiving feedback 
+       
 ---------------------------------------
 ## Learned concepts, tools and techniques 
 There are different things have learnt, such as: 
@@ -79,6 +82,14 @@ There are different things have learnt, such as:
 - DAX format and M-Language 
 - Professional working sheets 
 - Documentation 
+       
+---------------------------------------       
+## Contribution
+It would be very appreciated if you can: 
+  - Give a constructive feedback even it is technical or user prospective one that would make this project a way better
+  - Contribute on filling the missing data to give more answers
+  - Ask more interesting and new questions that we can answer using data, it would be such a fun! 
+--------------------------------------
 
 
 
