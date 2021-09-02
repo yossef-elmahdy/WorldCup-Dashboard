@@ -72,6 +72,15 @@ The project mainly contains:      ***It is preferable PUT all the project files 
      - WorldCupMatches.csv: all FIFA World Cup matches of all editions (1930-2018) 
      - WorldCupPlayers.csv: all FIFA World Cup players who played (1930-2014)
   3. LOGOs Folder: all the official logos of the FIFA World Cup editions (1930-2018), an image of the old trophy and the logo of FIFA organization itself
+              
+
+Note: You MUST download and install Microsoft Power BI Desktop to be able to view use the project
+
+<p align="center">
+       <a href="https://powerbi.microsoft.com/en-us/desktop/">Microsoft Power BI Desktop</a)
+</p> 
+
+
 --------------------------------------
 ## Sources
 1. [Kaggle's FIFA World Cup (1930-2014) Dataset](https://www.kaggle.com/abecklas/fifa-world-cup)
