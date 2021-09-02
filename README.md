@@ -36,16 +36,31 @@ And other interesting questiions you will enjoy it ^_^
 ## Project Snapshots 
        
 ![Main Dashboard](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/World%20Cup/Project%20Snapshots/MainDashboard.jpg)
-
+<p align="center">
+    Main Dashboard  
+</p>  
 
 ![Winner Tool Tip Page](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/World%20Cup/Project%20Snapshots/Tooltip1.jpg)
-
+<p align="center">
+    Winner Tool Tip Page   
+</p> 
        
  
 ![Winner Tool Tip Page](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/World%20Cup/Project%20Snapshots/Tooltip2.jpg)
-
+<p align="center">
+    World Cups Tool Tip Page   
+</p> 
 
 ![Winner Tool Tip Page](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/World%20Cup/Project%20Snapshots/MatchesTable.jpg)
+<p align="center">
+    Details of Matches    
+</p> 
+       
+
+<p align="center">
+       <a href="https://github.com/yossef-elmahdy/WorldCup-PowerBI/tree/main/World%20Cup/Project%20Snapshots">for more snapshots</a)
+</p> 
+
 
 --------------------------------------
 ## Files
