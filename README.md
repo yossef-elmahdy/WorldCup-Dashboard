@@ -3,7 +3,7 @@ Dashboard and reports of interesting data and facts about all FIFA World Cup edi
 with a timeline to highlight and describe main events and facts of each edition. 
 
 --------------------------------------
-
+![FIFA World Cup](https://www.kick442.com/wp-content/uploads/2020/07/IMG-20200715-WA0059.jpg)
 ## Overview
 This report answers some interesting questions with data using charts and numbers, questions like: 
 - How many world cup editions were played?
@@ -61,8 +61,6 @@ Thank you for who made them!
    - Uploading the datasets 
    - Deploying the report 
    - Making an app (contains dashboard and reports)
-
-
 
 
 
