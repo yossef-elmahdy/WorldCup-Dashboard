@@ -23,8 +23,6 @@ This report answers some interesting questions with data using charts and number
   
 And other interesting questiions you will enjoy it ^_^
 
-  
-
 --------------------------------------
 ## Files
 The project mainly contains:      ***It is preferable PUT all the project files TOGETHER in the same folder***
@@ -49,7 +47,7 @@ It would be very appreciated if you can:
 Thank you for who made them! 
 
 ---------------------------------------
-## Tools 
+## Used Tools 
 1. Microsoft Power BI: 
    - Integration and Transformation 
    - Modelling
@@ -62,8 +60,25 @@ Thank you for who made them!
    - Uploading the datasets 
    - Deploying the report 
    - Making an app (contains dashboard and reports)
-       
-       [This will take you to files](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#files)
+4. GitHub
+   - Share the project 
+   - Receiving feedback 
+---------------------------------------
+## Learned concepts, tools and techniques 
+There are different things have learnt, such as: 
+- Business Intelligence concepts 
+- Data Anlysis and Data Mining fundmentals: 
+  - Data cleaning 
+  - Data Integration 
+  - Data Transformation 
+- Data Visualization: 
+  - Asking right questions 
+  - Data accuracy matter 
+  - Using suitable charts to describe the data 
+  - Tell a story about the data 
+- DAX format and M-Language 
+- Professional working sheets 
+- Documentation 
 
 
 
