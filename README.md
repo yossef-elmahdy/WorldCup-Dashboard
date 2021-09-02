@@ -1,58 +1,68 @@
 # WorldCup-PowerBI
 Dashboard and reports of interesting data and facts about all FIFA World Cup editions (1930-2018) 
 with a timeline to highlight and describe main events and facts of each edition. 
-<hr>
-</hr>
-<p>
-  <h2>Overview</h2>
-  This report answers some interesting questions with data using charts and numbers, questions like: 
-  <ul>
-    <li>How many world cup editions were played?</li>
-    <li>Who was the winner on each of them and how many times it was the winner?</li>
-    <li>How many world cup editions the hosting country was the winner on them, what were these teams, and in what year? 
-        <h6>(Discover if there is any correlation between being the winner team and the hosting country at the same time)<h6>
-    </li>
-    <li>How many overall goals were scored and matches were played for each edition?</li>
-    <li>Whats is the percentage that the coach of the winner team has the same nationality?
-        <h6>(Discover if there is any correlation between being the winner team and having a national coach)</h6>
-    </li>
-    <li>What was the official poster and logo of each world cup edition?</li>
-    <li>Who were the runner-up and the third teams of each edition?</li>
-    <li>Who was the coach of the winner team in that year?</li>
-    <li>What were the cities and stadiums of each match of each world cup edition?</li>
-    <li>How many attendance to each edition (min, max and total)?</li>
-    <li>What is the details of every match thas was held in each edition (home and away teams, referee, final result, the winner, ... etc</li>
-    <li>What were the squad of home and away teams and even the shirt number of each player in this match? (<b>except for 2018 World Cup edition</b>)</li>
-  </ul>
-</p>
 
-<hr>
-</hr>
+--------------------------------------
 
-<p>
-  <h2>Overview</h2>
-  This report answers some interesting questions with data using charts and numbers, questions like: 
-  <ul>
-    <li>How many world cup editions were played?</li>
-    <li>Who was the winner on each of them and how many times it was the winner?</li>
-    <li>How many world cup editions the hosting country was the winner on them, what were these teams, and in what year? 
-        <h6>(Discover if there is any correlation between being the winner team and the hosting country at the same time)<h6>
-    </li>
-    <li>How many overall goals were scored and matches were played for each edition?</li>
-    <li>Whats is the percentage that the coach of the winner team has the same nationality?
-        <h6>(Discover if there is any correlation between being the winner team and having a national coach)</h6>
-    </li>
-    <li>What was the official poster and logo of each world cup edition?</li>
-    <li>Who were the runner-up and the third teams of each edition?</li>
-    <li>Who was the coach of the winner team in that year?</li>
-    <li>What were the cities and stadiums of each match of each world cup edition?</li>
-    <li>How many attendance to each edition (min, max and total)?</li>
-    <li>What is the details of every match thas was held in each edition (home and away teams, referee, final result, the winner, ... etc</li>
-         ![1994_2](https://user-images.githubusercontent.com/89986999/131872524-253e2c53-4c93-4c2e-9eac-245e9cac8fbd.jpg)
+## Overview
+This report answers some interesting questions with data using charts and numbers, questions like: 
+- How many world cup editions were played?
+- Who was the winner on each of them and how many times it was the winner?
+- How many world cup editions the hosting country was the winner on them, what were these teams, and in what year? 
+        *<h6>(Discover if there is any correlation between being the winner team and the hosting country at the same time)<h6>*
+- How many overall goals were scored and matches were played for each edition?
+- Whats is the percentage that the coach of the winner team has the same nationality?
+        *<h6>(Discover if there is any correlation between being the winner team and having a national coach)</h6>*
+- What was the official poster and logo of each world cup edition?
+- Who were the runner-up and the third teams of each edition?
+- Who was the coach of the winner team in that year?
+- What were the cities and stadiums of each match of each world cup edition?
+- How many attendance to each edition (min, max and total)?
+- What is the details of every match thas was held in each edition (home and away teams, referee, final result, the winner, ... etc
+- What were the squad of home and away teams and even the shirt number of each player in this match? ***(except for 2018 World Cup edition)***
+  
+And other interesting questiions you will enjoy it ^_^
+  
+
+--------------------------------------
+## Files
+The project mainly contains:      ***It is preferable PUT all the project files TOGETHER in the same folder***
+  1. Power BI File: 
+     - WorldCup.pbix: the main PROJECT file that contains all data analysis, reports, sheets and dashboards
+  2. CSV Datasets: 
+     - WorldCups.csv: all FIFA World Cup editions (1930-2018) 
+     - WorldCupMatches.csv: all FIFA World Cup matches of all editions (1930-2018) 
+     - WorldCupPlayers.csv: all FIFA World Cup players who played (1930-2014)
+  3. LOGOs Folder: all the official logos of the FIFA World Cup editions (1930-2018), an image of the old trophy and the logo of FIFA organization itself
+--------------------------------------
+## Contribution
+It would be very appreciated if you can: 
+  - Give a constructive feedback even it is technical or user prospective one that would make this project a way better
+  - Contribute on filling the missing data to give more answers
+  - Ask more interesting and new questions that we can answer using data, it would be such a fun! 
+--------------------------------------
+## Sources
+1. [Kaggle's FIFA World Cup (1930-2014) Dataset](https://www.kaggle.com/abecklas/fifa-world-cup)
+2. [Data World FIFA World Cup 2018 Dataset](https://data.world/rezaghari/fifa-worldcup-2018)
+
+Thank you for who made them! 
+
+---------------------------------------
+## Tools 
+1. Microsoft Power BI: 
+   - Integration and Transformation 
+   - Modelling
+   - Analyzing
+   - Visualization 
+2. Microsoft Excel 356: 
+   - Some cleaning 
+   - Some appending of data
+3. Microsoft Power BI Serivce 
+   - Uploading the datasets 
+   - Deploying the report 
+   - Making an app (contains dashboard and reports)
 
 
-  </ul>
-</p>
 
 
 
