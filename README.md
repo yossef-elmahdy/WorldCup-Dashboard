@@ -4,7 +4,7 @@ with a timeline to highlight and describe main events and facts of each edition.
 
 ## Content
 - [Overview](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#overview)
-- [Project Snapshots](TODO)
+- [Project Snapshots](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#project-snapshots)
 - [Files](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#files)
 - [Sources](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#sources)
 - [Used Tools](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#used-tools)
@@ -34,13 +34,34 @@ And other interesting questiions you will enjoy it ^_^
 
 --------------------------------------
 ## Project Snapshots 
-<p align="center">
-    Main Dashboard  
-</p>   
        
 ![Main Dashboard](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/World%20Cup/Project%20Snapshots/MainDashboard.jpg)
+<p align="center">
+    Main Dashboard  
+</p>  
 
+![Winner Tool Tip Page](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/World%20Cup/Project%20Snapshots/Tooltip1.jpg)
+<p align="center">
+    Winner Tool Tip Page   
+</p> 
        
+ 
+![Winner Tool Tip Page](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/World%20Cup/Project%20Snapshots/Tooltip2.jpg)
+<p align="center">
+    World Cups Tool Tip Page   
+</p> 
+
+![Winner Tool Tip Page](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/World%20Cup/Project%20Snapshots/MatchesTable.jpg)
+<p align="center">
+    Details of Matches    
+</p> 
+       
+
+<p align="center">
+       <a href="https://github.com/yossef-elmahdy/WorldCup-PowerBI/tree/main/World%20Cup/Project%20Snapshots">for more snapshots</a)
+</p> 
+
+
 --------------------------------------
 ## Files
 The project mainly contains:      ***It is preferable PUT all the project files TOGETHER in the same folder***
@@ -99,7 +120,8 @@ It would be very appreciated if you can:
   - Give a constructive feedback even it is technical or user prospective one that would make this project a way better
   - Contribute on filling the missing data to give more answers
   - Ask more interesting and new questions that we can answer using data, it would be such a fun! 
---------------------------------------
+
+
 
 
 
