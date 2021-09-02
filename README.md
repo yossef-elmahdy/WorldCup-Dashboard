@@ -1,4 +1,4 @@
-# WorldCup-PowerBI
+# WorldCup Dashboard
 Dashboard and reports of interesting data and facts about all FIFA World Cup editions (1930-2018) 
 with a timeline to highlight and describe main events and facts of each edition. 
 
