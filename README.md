@@ -1,6 +1,6 @@
 # WorldCup Dashboard
 Dashboard and reports of interesting data and facts about all FIFA World Cup editions (1930-2018) 
-with a timeline to highlight and describe main events and facts of each edition. 
+with a timeline to highlight and describe main events and facts of each edition using `Microsoft Power BI`. 
 
 ## Content
 - [Overview](https://github.com/yossef-elmahdy/WorldCup-PowerBI/blob/main/README.md#overview)
@@ -90,19 +90,23 @@ Thank you for who made them!
 
 ---------------------------------------
 ## Used Tools 
-1. Microsoft Power BI: 
+1. `Microsoft Power BI`: 
    - Integration and Transformation 
    - Modelling
    - Analyzing
    - Visualization 
-2. Microsoft Excel 356: 
+2. `Microsoft Excel 356`: 
    - Some cleaning 
    - Some appending of data
-3. Microsoft Power BI Serivce 
+3. `Microsoft Power BI Serivce`: 
    - Uploading the datasets 
    - Deploying the report 
    - Making an app (contains dashboard and reports)
-4. GitHub
+4. `Photoshob`:
+   - Some visualizations 
+   - Some formatting and color selection  
+5. `GitHub`:
+   - Documentation of the project 
    - Share the project 
    - Receiving feedback 
        
