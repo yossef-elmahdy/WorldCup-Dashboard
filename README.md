@@ -102,7 +102,7 @@ Thank you for who made them!
    - Uploading the datasets 
    - Deploying the report 
    - Making an app (contains dashboard and reports)
-4. `Photoshob`:
+4. `Photoshop`:
    - Some visualizations 
    - Some formatting and color selection  
 5. `GitHub`:
